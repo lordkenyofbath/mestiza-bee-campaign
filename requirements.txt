@@ -1,3 +1,1 @@
 streamlit==1.32.0
-streamlit-download-button==0.3
-pdfkit==1.0.0   # optional, only if you want server-side PDF
